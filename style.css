@@ -1,0 +1,242 @@
+@font-face {
+    font-family: "GL kirovi";
+    src: url('./fonts/gl-kirovi-bold.ttf');
+}
+@font-face{
+    font-family: "FiraGO";
+    src: url('./fonts/FiraGO-Regular.ttf');
+}
+
+.html_png {
+    width: 223px;
+    height:58px;
+    margin-left: 104px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 56px;
+}
+.header{
+    margin-bottom: 39px;
+}
+ul{
+    color:#8D81FF;
+    font-family: FiraGO;
+    font-size:24px;
+    font-weight:700;
+    padding-left: 0;
+    margin-left: 104px;
+    display: inline-block;
+    vertical-align: top;
+    padding:0;
+    margin-top: 0;
+    margin-top: 61px;
+}
+.list_item{
+    color:#8D81FF;
+    text-decoration: none;
+    display: inline-block;
+    width:115px;
+    height:34px;
+}
+#active{
+    color:#4E6FAE;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    
+}
+nav{
+    display: inline;
+    vertical-align: top;
+}
+.main{
+    display:inline;
+    margin-right: 87px;
+}
+.news{
+    display:inline;
+    margin-right: 81px;
+}
+.date{
+    background-color:#5012D5;
+    width:50px;
+    height:50px;
+    font-size:34px;
+    color:#84FF81;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:14px;
+}
+.p_date{
+    color: #8D81FF;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.container{
+    margin-left: 104px;
+}
+.paragraph{
+color: #4E6FAE;
+font-family: 'GL kirovi';
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+display: inline-block;
+width: 778px;
+vertical-align: top;
+}
+h3{
+    color: #4E6FAE;
+    font-size:20px;
+    font-weight:700;
+    margin-top: 8px;
+    font-family: "GL kirovi";
+    margin-bottom: 14px;
+}
+#text3{
+    margin-top: 32px;
+    width: 1021px;
+}
+.date_27_28{
+    margin-top: 155px;
+}
+.article_images{
+    width: 447px;
+    height: 280px;
+    display:inline-block;
+    vertical-align: top;
+    margin-right: 66px; 
+}
+#p1{
+    height:353px;
+}
+#p2{
+    height:280px;
+}
+footer{
+    display:flex;
+    gap:41px;
+    margin-top: 143px;
+    margin-bottom: 285px;
+}
+.icon{
+    margin-left:104px; 
+    width: 50px;
+    height:50px;
+}
+.line{
+    background-color: #5012D5;
+    width:2px;
+    height:48px;
+}
+#HTML1{
+    width: 1052px;
+    height:462px;
+    margin-right:284px;
+    margin-left: 194px;
+    padding-bottom: 36px;
+    margin-top: 85px;
+}
+#div_line{
+    width: 2px;
+    height: 24px;
+    background: #5012D5;
+    display:inline-block;
+    margin-right: 17px;
+    }
+.p-siaxle{
+    width: 484px;
+    height: 34px;
+    color: #4E6FAE;
+    font-size: 26px;;
+    font-weight: 400;
+    display:inline-block;
+    font-family: 'FiraGO';
+}
+.news-paragraph{
+    width: 150px;
+    height: 34px;
+    color: #4E6FAE;
+    font-size: 26px;
+    font-weight: 700;
+    display:inline-block;
+    font-family: 'FiraGO';
+    }
+.container_div2{
+    display: inline-block;
+    width: 500px;
+    height: 192px;
+    background: #E7E7E7;
+    margin-left: 194px; 
+    padding-top: 21px;
+    }
+.div-p{
+    width: 307px;
+    color: #3F4145;    
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 23px; 
+    margin-bottom: 21px;
+    }
+.div-p2{
+    width: 335px;
+    height: 95px;
+    color: #7E8898;
+    font-size: 16px;
+    font-weight: 400;
+    display: inline-block;
+    padding-bottom: 32px;  
+    vertical-align: top;
+    }
+.footer_page2 {
+    margin-top: 91px;
+    margin-left: 194px;
+    }
+.section2{
+    margin-left: 194px;
+}
+.container_div1{    
+    margin-left: 194px;
+}
+.div-img, .div-img2{
+    padding:0 36px;
+}
+.section-info{
+    text-align: center;
+    display: inline-block;
+    width: 474px;
+    vertical-align: top;
+}
+.main-div{
+    background-color: #E7E7E7;
+    height: 735px; 
+    padding-top: 93px;
+}
+.contact-info{
+    color: #4E6FAE;
+    font-size: 36px;
+    font-weight: 700;
+    height: 34px; 
+    margin-bottom: 27px;
+}
+.section-img{
+    width: 944px;
+    height: 549px;
+}
+
+.info-paragraph{
+    color: #7E8898;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 23px;
+}
+.section-info2{
+    display: inline-block;
+    width: 944px;
+    height: 549px;
+    margin-left: 40px;
+}
